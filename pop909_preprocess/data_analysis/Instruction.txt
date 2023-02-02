@@ -1,0 +1,4 @@
+1. Inter-onset interval (original / result48/ result_tri)
+2. note-duration (original/ result48/ result_tri)
+3. chromagram entropy (with high note) (original/ result48/ result_tri)
+ps. wish to use longer sequence when training
